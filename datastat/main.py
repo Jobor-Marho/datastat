@@ -1,4 +1,7 @@
+"""
+Main.py(where to run the project)
 
+"""
 import os
 import sys
 import django

@@ -1,3 +1,7 @@
+"""
+Utilities for project
+"""
+
 from collections import Counter
 from datastat.models import ColorFrequency  # Replace with the actual path to your app
 import random

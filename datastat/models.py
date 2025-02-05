@@ -1,3 +1,7 @@
+"""
+Models for Database
+"""
+
 from django.db import models
 
 class ColorFrequency(models.Model):
